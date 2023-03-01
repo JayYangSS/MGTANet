@@ -4,7 +4,7 @@ python setup.py build_ext --inplace
 cd .. && cd iou3d_nms
 python setup.py build_ext --inplace
 
-cd .. && cd defromDETR
+cd .. && cd deformDETR
 python setup.py build install
 
 cd ../../../apex
