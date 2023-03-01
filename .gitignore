@@ -1,0 +1,10 @@
+*.pyc
+*.so
+*.zip
+*.egg
+.vscode
+det3d/ops/iou3d_nms/build
+det3d/ops/deformDETR/build
+det3d/ops/dcn/build
+data
+work_dirs
